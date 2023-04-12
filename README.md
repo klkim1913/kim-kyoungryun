@@ -1,4 +1,6 @@
-# kim-kyoungryun
+# Kim-KyoungRyun
+
+- Samsumg SW Academy 9th
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=klkim1913&count_private=true&show_icons=true&theme=tokyonight)
 [![Solved.ac
