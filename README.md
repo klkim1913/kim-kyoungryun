@@ -3,7 +3,7 @@
 ---
 
 ### 💼 Experience
-- 🏢 Innowireless - Software Engineer **[2023/12 ~]**
+- 🏢 Innowireless - Server Software Engineer **[2023/12 ~]**
 - 🖥️ Samsung SW Academy **[2023/01 - 2023/11]**
 - 🎓 Computer Science **[~ 2023/02]**
 
